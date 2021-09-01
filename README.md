@@ -1,10 +1,10 @@
-# Olá, eu sou o Rafael Meireles, seja bem vindo ao meu perfil.
-## Estudante ávido das seguintes tecnologias
+# Hi, I'M Rafael Meireles, welcome to my profile 😉.
+## Student of the following technologies
 
-🐍 Back-end e desenvolvimento Web com Python
-📘 Análise de dados
-📘 Banco de Dados
-📘 HTML5, CSS3 e JavaScript
+🐍 Back-end and development Web with Python
+🌱 Data analysis
+📘 Database
+🌱 HTML5, CSS3 and JavaScript
 
 <div>
   <a href="https://github.com/rafael-hsm">
