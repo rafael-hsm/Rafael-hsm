@@ -1,4 +1,4 @@
-# Hi, I'M Rafael Meireles, welcome to my profile 😉.
+# Hi, I'm Rafael Meireles, welcome to my profile 😉.
 ## Student of the following technologies
 
 🐍 Back-end and development Web with Python
