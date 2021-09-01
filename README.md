@@ -1,5 +1,5 @@
 # Hi, I'm Rafael Meireles, welcome to my profile 😉.
-## Student of the following technologies
+## Direction is more important than speed.
 
 🐍 Back-end and development Web with Python
 🌱 Data analysis
