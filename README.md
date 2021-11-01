@@ -2,8 +2,8 @@
 ## Direction is more important than speed.
 
 🐍 Back-end and development Web with Python
-🌱 Data analysis
 📘 Database
+🌱 Data analysis
 🌱 HTML5, CSS3 and JavaScript
 
 <div>
